@@ -30,7 +30,7 @@ The login credential that comes out of the box is as bellow:
 - account: `techilla`
 - password: `fcc`
 
-### Database configuration
+### Database configuration (optional)
 Out of the box, the project is set up to work with two .json files as its "database".  
 You can see these two files in the `fcc_node_demo/data/fsDatabase` directory.
 
