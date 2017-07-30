@@ -6,7 +6,7 @@ This is a node.js demo project for FCC Toronto
 ### Installing Node.js
 If you do not have node.js installed already please make sure to install it.  
 The easiest way is to download it from https://nodejs.org.  
-If you are on a Mac and have HomeBrew installed, `brew install node` will do the trick.  
+If you are on a Mac and have Homebrew installed, `brew install node` will do the trick.  
 If you are on linux, `apt-get install node` should work as well.
 
 ### Starting the project
